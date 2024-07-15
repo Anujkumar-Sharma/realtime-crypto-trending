@@ -28,4 +28,4 @@ Notes : For long term usage you have to update the API key for [livecoinwatch]. 
 
 [![Watch the video]]
 
-<video src="https://github.com/Anujkumar-Sharma/realtime-crypto-trending/blob/main/sample_intro.mp4" width="300" ></video>
+<video src="https://drive.google.com/file/d/1WK1e8G4Ve_-BbfxysRyUhrANMQBZoNR-/view?usp=sharing" width="300" ></video>
