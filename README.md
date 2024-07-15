@@ -12,7 +12,7 @@ yarn
 pnpm install
 ```
 
-First, run the development server:
+Run the development server:
 
 ```bash
 npm run dev
@@ -23,3 +23,6 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+[![Watch the video]]
+(https://github.com/Anujkumar-Sharma/realtime-crypto-trending/blob/main/sample_intro.mp4)
